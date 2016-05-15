@@ -11,6 +11,13 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
+
+
+    int mn;
+
+
+
+
     private int getHumanWeight;
     private int getHumanHeight;
     Button weightButton;
